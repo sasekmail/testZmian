@@ -1,2 +1,4 @@
 tekst1
-teskst2
+tekst3
+teskst2 tekst5
+uip
